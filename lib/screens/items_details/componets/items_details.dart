@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:shop_app/screens/items_details/componets/item_description.dart';
+import 'package:e_pay/screens/items_details/componets/item_description.dart';
 
 import '../../../size_config.dart';
 

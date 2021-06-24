@@ -1,8 +1,8 @@
 import 'package:flutter/material.dart';
-import 'package:shop_app/screens/account_details/componets/edit_payment_details_button.dart';
-import 'package:shop_app/screens/account_details/componets/payments_details.dart';
-import 'package:shop_app/screens/home/components/discount_banner.dart';
-import 'package:shop_app/screens/account_details/componets/edit_account_details_button.dart';
+import 'package:e_pay/screens/account_details/componets/edit_payment_details_button.dart';
+import 'package:e_pay/screens/account_details/componets/payments_details.dart';
+import 'package:e_pay/screens/home/components/discount_banner.dart';
+import 'package:e_pay/screens/account_details/componets/edit_account_details_button.dart';
 import '../../size_config.dart';
 import 'componets/edit_account_details_button.dart';
 

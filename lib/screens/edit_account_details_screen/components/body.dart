@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
-import 'package:shop_app/components/socal_card.dart';
-import 'package:shop_app/constants.dart';
-import 'package:shop_app/size_config.dart';
+import 'package:e_pay/components/socal_card.dart';
+import 'package:e_pay/constants.dart';
+import 'package:e_pay/size_config.dart';
 
 import 'edit_payment_details_form.dart';
 

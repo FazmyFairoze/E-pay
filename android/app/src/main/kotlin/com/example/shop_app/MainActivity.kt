@@ -1,4 +1,4 @@
-package com.example.shop_app
+package com.fazmy.e_pay
 
 import io.flutter.embedding.android.FlutterActivity
 

@@ -1,9 +1,9 @@
 import 'package:flutter/material.dart';
-import 'package:shop_app/screens/items_details/items_details_screen.dart';
+import 'package:e_pay/screens/items_details/items_details_screen.dart';
 import '../../../size_config.dart';
-import 'package:shop_app/models/Product.dart';
-import 'package:shop_app/screens/details/details_screen.dart';
-import 'package:shop_app/screens/home/components/section_title.dart';
+import 'package:e_pay/models/Product.dart';
+import 'package:e_pay/screens/details/details_screen.dart';
+import 'package:e_pay/screens/home/components/section_title.dart';
 
 class ItemsAvailable extends StatelessWidget {
   //static String routeName = "/items_available";

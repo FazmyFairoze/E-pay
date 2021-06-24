@@ -1,10 +1,10 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_svg/flutter_svg.dart';
-import 'package:shop_app/screens/discover/discover.dart';
-import 'package:shop_app/screens/home/home_screen.dart';
-import 'package:shop_app/screens/profile/profile_screen.dart';
-import 'package:shop_app/screens/qr/qr.dart';
-import 'package:shop_app/screens/discover/discover.dart';
+import 'package:e_pay/screens/discover/discover.dart';
+import 'package:e_pay/screens/home/home_screen.dart';
+import 'package:e_pay/screens/profile/profile_screen.dart';
+import 'package:e_pay/screens/qr/qr.dart';
+import 'package:e_pay/screens/discover/discover.dart';
 import '../constants.dart';
 import '../enums.dart';
 

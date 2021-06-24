@@ -1,8 +1,8 @@
 import 'package:flutter/material.dart';
-import 'package:shop_app/routes.dart';
-import 'package:shop_app/screens/profile/profile_screen.dart';
-import 'package:shop_app/screens/splash/splash_screen.dart';
-import 'package:shop_app/theme.dart';
+import 'package:e_pay/routes.dart';
+import 'package:e_pay/screens/profile/profile_screen.dart';
+import 'package:e_pay/screens/splash/splash_screen.dart';
+import 'package:e_pay/theme.dart';
 
 import 'routes.dart';
 import 'screens/splash/splash_screen.dart';

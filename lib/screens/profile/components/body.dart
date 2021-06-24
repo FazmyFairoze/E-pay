@@ -1,10 +1,10 @@
 import 'package:flutter/material.dart';
-import 'package:shop_app/screens/account_details/account_details_screen.dart';
+import 'package:e_pay/screens/account_details/account_details_screen.dart';
 
 import 'profile_menu.dart';
 import 'profile_pic.dart';
-import 'package:shop_app/routes.dart';
-import 'package:shop_app/screens/sign_in/sign_in_screen.dart';
+import 'package:e_pay/routes.dart';
+import 'package:e_pay/screens/sign_in/sign_in_screen.dart';
 
 class Body extends StatelessWidget {
   @override

@@ -1,10 +1,10 @@
 import 'package:flutter/material.dart';
-import 'package:shop_app/components/custom_surfix_icon.dart';
-import 'package:shop_app/components/form_error.dart';
-import 'package:shop_app/helper/keyboard.dart';
-import 'package:shop_app/screens/forgot_password/forgot_password_screen.dart';
-import 'package:shop_app/screens/login_success/login_success_screen.dart';
-import 'package:shop_app/screens/home/home_screen.dart';
+import 'package:e_pay/components/custom_surfix_icon.dart';
+import 'package:e_pay/components/form_error.dart';
+import 'package:e_pay/helper/keyboard.dart';
+import 'package:e_pay/screens/forgot_password/forgot_password_screen.dart';
+import 'package:e_pay/screens/login_success/login_success_screen.dart';
+import 'package:e_pay/screens/home/home_screen.dart';
 import '../../../components/default_button.dart';
 import '../../../constants.dart';
 import '../../../size_config.dart';
